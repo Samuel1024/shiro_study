@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01_shiro_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_shiro_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_shiro_myRealm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_shiro_springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_shiro_srpingboot_jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_shiro_ehcache" charset="UTF-8" />
+  </component>
+</project>

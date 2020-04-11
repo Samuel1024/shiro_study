@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_shiro_demo" />
+        <module name="02_shiro_demo" />
+        <module name="03_shiro_myRealm" />
+        <module name="04_shiro_springboot" />
+        <module name="05_shiro_srpingboot_jpa" />
+        <module name="06_shiro_ehcache" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shiro_jpa" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

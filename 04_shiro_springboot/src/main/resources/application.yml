@@ -1,0 +1,3 @@
+shiro:
+  enabled: true
+  loginUrl: /showLogin

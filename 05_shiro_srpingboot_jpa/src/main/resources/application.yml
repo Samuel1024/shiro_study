@@ -1,0 +1,22 @@
+shiro:
+  enabled: true
+  loginUrl: /showLogin
+spring:
+  datasource:
+    max-idle: 8
+    min-idle: 8
+    max-active: 20
+    driverClassName: com.mysql.jdbc.Driver
+    initial-size: 10
+    url: jdbc:mysql://127.0.0.1:3306/shiro?serverTimezone=UTC
+    username: root
+    password: samuel
+  jpa:
+    database: MYSQL
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming-strategy: org.hibernate.cfg.DefaultNamingStrategy
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
