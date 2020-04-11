@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * Hello world!
- *
+ * 加点注释
  */
 public class ShiroApp {
     public static void main( String[] args ) {
